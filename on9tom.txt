@@ -3,3 +3,5 @@ first change
 second change
 
 remote change on github
+
+remote change that will crash
